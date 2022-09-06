@@ -9,3 +9,4 @@
 - kaggle pandas course 수강
 
 ### 2. 백준   
+- UPDATA 그룹의 **UPDATA 정회원 승급 조건** 문제 풀이
