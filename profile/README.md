@@ -17,7 +17,7 @@
 ### Kaggle
 1. [캐글](https://www.kaggle.com) 접속 후 회원가입
 2. contributor 티어 달성 [Kaggle's 30 Days Of ML](https://www.youtube.com/watch?v=_55G24aghPY&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) 영상 참고
-![contributor](./contributor.png)
+![contributor](https://github.com/KU-UPDATA/.github/blob/main/profile/contributor.png?raw=true)
 
 3. [Kaggle Learn](https://www.kaggle.com/learn) 접속 후 pythojn course, pandas course 수강
 
